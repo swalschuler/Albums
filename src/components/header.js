@@ -5,3 +5,4 @@ const Header = () => {
   return <Text>Albums</Text>;
 };
 
+export default Header;
