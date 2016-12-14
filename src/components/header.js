@@ -16,8 +16,8 @@ const styles = {
   },
   viewStyle:{
     backgroundColor: '#F8F8F8',
-    justifyContent: 'center',
-    alignItems: 'center',
+    justifyContent: 'center', // justifyContent used for vertical alignment
+    alignItems: 'center', // used for horizontal alignment 
     height: 60,
     paddingTop: 15,
     shadowColor: '#000',
